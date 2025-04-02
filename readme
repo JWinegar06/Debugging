@@ -26,4 +26,4 @@ Index.js Fixes
     Line 23 - console.log("User info: " + user);  is changed to console.log("User info: " , user); - wrong character was used to add the string to the object
     Line 26 - let num = "10" is changed to let num = 10 - wrong conversion type
      
-    
+https://jwinegar06.github.io/Debugging/
