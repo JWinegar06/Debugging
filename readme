@@ -1,10 +1,10 @@
 Index.html Fixes
-    Line 06 - <link rel="stylesheet" href="styles/missing-file.css"> changed to <link rel="stylesheet" href="styles.css">
-    Line 14 - Let's learn how to debug our code.</p> needs the opening <p>
+    Line 06 - <link rel="stylesheet" href="styles/missing-file.css"> changed to <link rel="stylesheet" href="styles.css"> 
+    Line 14 - Let's learn how to debug our code.</p> Missing the opening <p> tag
     Line 21 - missing the closing </div> tags
     Line 23 - <p style: color: red;> is changed to <p style="color: red">
     Line 25 - <div clss="contianer"> is changed to <div class="container">
-    Line 26 - <img src="http://example.com/image.jpg" alt="Example Image"> changed to <img src="https://placehold.co/400x400" alt="Example Image"/>
+    Line 26 - <img src="http://example.com/image.jpg" alt="Example Image"> changed to <img src="https://placehold.co/400x400" alt="Example Image"/> Can't load http image on https page
     Line 32 - Added the index.js    
 
 
