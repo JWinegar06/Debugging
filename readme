@@ -1,0 +1,29 @@
+Index.html Fixes
+    Line 06 - <link rel="stylesheet" href="styles/missing-file.css"> changed to <link rel="stylesheet" href="styles.css">
+    Line 14 - Let's learn how to debug our code.</p> needs the opening <p>
+    Line 21 - missing the closing </div> tags
+    Line 23 - <p style: color: red;> is changed to <p style="color: red">
+    Line 25 - <div clss="contianer"> is changed to <div class="container">
+    Line 26 - <img src="http://example.com/image.jpg" alt="Example Image"> changed to <img src="https://placehold.co/400x400" alt="Example Image"/>
+    Line 32 - Added the index.js    
+
+
+Style.css Fixes
+    Line 02 - 'largeer' is changed to 'larger'.
+    Line 06 - fontsize: 23xp is changed to font-size: 23px
+    Line 10 - '.contianer' is changed to '.container'
+    Line 11 - 'colro' is changed to 'color'.
+    Line 14 - background color #f3SupeCoolColor is not real. Changed to #f0f0f0
+    Line 23 - 'Pudding' is changed to 'padding'
+
+
+Index.js Fixes
+    Line 01 - let message = "Hello, World!" is changed to let message = ("Hello, World!")
+    Line 02 - console.log(message; is changed to console.log(`${message}`)
+    Line 05 - added let myVariable for definition
+    Line 10 - greeting() is changed to console.log(greeting);
+    Line 14 - added property: "property" for definition
+    Line 23 - console.log("User info: " + user);  is changed to console.log("User info: " , user);
+    Line 26 - let num = "10" is changed to let num = 10
+     
+    
